@@ -1,4 +1,4 @@
-## OLÁ, Sou o Vinícius Moreira🖖
+## 🖖 Saudações, me chamo Vinícius Moreira🖖
 - 🌱Análise e Desenvolvimento de Sistemas
 <div align = "left">
   <a href="https://github.com/ViniciusMoreiraDSantos">
