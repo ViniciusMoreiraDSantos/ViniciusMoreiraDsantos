@@ -24,6 +24,4 @@
   <a href = "moreiravinicius632@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
  
  
-  ! [Animação de cobra] (https://github.com/ViniciusMoreiraDsantos/ViniciusMoreiraDsantos/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
