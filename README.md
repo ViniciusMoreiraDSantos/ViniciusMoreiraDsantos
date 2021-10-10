@@ -1,4 +1,4 @@
-## OLÁ, Sou o vinicius 🖖
+## OLÁ, Sou o Vinícius 🖖
 
 <div align = "left">
   <a href="https://github.com/ViniciusMoreiraDSantos">
