@@ -1,5 +1,5 @@
 ## OLÁ, Sou o Vinícius Moreira🖖
-
+- 🌱Análise e Desenvolvimento de Sistemas
 <div align = "left">
   <a href="https://github.com/ViniciusMoreiraDSantos">
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=ViniciusMoreiraDsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  />
