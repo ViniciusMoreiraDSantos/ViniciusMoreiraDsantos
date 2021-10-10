@@ -14,7 +14,7 @@
   <img align = "center" alt = "Rafa-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
   <img align = "center" alt = "Rafa-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg ">
   <img align="center" alt="Wesley-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/JbeDK22.gif?noredirect">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==">
 </div>
   
   ##
