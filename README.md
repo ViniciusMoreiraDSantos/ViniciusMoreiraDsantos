@@ -1,5 +1,8 @@
 ##  Vinícius Moreira 
-- 🌱Análise e Desenvolvimento de Sistemas
+- Desenvolvedor Full Stack com 4 anos de experiência em ambiente bancário regulado, com domínio em Angular (v2+), AngularJS, .Net/C#, Java/Spring Boot e práticas de DevSecOps. Atualmente cursando pós-graduação em Engenharia de Software pela Universidade de São Paulo (USP).
+- No Banco Safra, atuei no desenvolvimento ponta a ponta de canais digitais PF e PJ — desde a construção de componentes front-end com Micro Frontends (MFE) e programação reativa com RxJS e Reactive Forms, até APIs RESTful documentadas com OpenAPI/Swagger. Implementei pipelines CI/CD com Jenkins e GitLab, reduzi latência em até 35% com estratégias de cache e integração entre sistemas, e mantive observabilidade em produção com Kibana e Dynatrace.
+- Tenho familiaridade com arquitetura de microsserviços, padrão BFF, AWS S3 e Lambda, além de automação de fluxos ITSM e metodologias ágeis (Scrum/Kanban).
+Stack principal: Angular · AngularJS · RxJS · Signal ·Reactive Forms · TypeScript · Java/Spring Boot · Node.js · PostgreSQL · MongoDB · Docker · AWS · CI/CD · Kibana · Dynatrace
 <div align = "left">
   <a href="https://github.com/ViniciusMoreiraDSantos">
 </div>
